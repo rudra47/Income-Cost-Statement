@@ -6,7 +6,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
- 
+<h1>Hello Laravel</h2>
 ## Project Purpose
 Fingerprint attendance system are available in any university. But when any employee forget to give attendance by fingerprint device, they will be absent on this working day. For recovering this he/she have to apply to administrative office for the missing attendance manually. This project is developed for this purpose as if they can put their attendance by using this web application software and then administrative person will be approve his/her attendance.
 
